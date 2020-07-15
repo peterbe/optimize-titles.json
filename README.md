@@ -27,3 +27,7 @@ Or just use `ls`:
 One version of the results as of today:
 
 ![](./graph.png)
+
+Exclusively `gzip` sizes:
+
+![](./gzip-only.png)
