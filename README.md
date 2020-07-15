@@ -55,3 +55,9 @@ And pretty-printed sizes:
 -rw-r--r--  1 peterbe  staff   208K Jul 15 12:00 3.json.gz
 -rw-r--r--  1 peterbe  staff   208K Jul 15 11:54 0.json.gz
 ```
+
+## Conclusion
+
+The cheapest thing you can do is to round the `popularity` numbers down to
+fewer significant figures. And to omit the `popularity` when it's 0 anyway
+doesn't hurt.
